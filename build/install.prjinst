@@ -1,0 +1,62 @@
+<IceProject>
+    <Name>Egida Backup</Name>
+    <Prod></Prod>
+    <Site></Site>
+    <Readme></Readme>
+    <Banner></Banner>
+    <Catalog>C:\Program Files\Egida Backup</Catalog>
+    <Exe>\EgidaBackup.exe</Exe>
+    <Run></Run>
+    <ViewLicense>Нет</ViewLicense>
+    <License></License>
+    <Files>
+        <File Filename="D:\Projects\Egida Backup\build\backups.xml"/>
+        <File Filename="D:\Projects\Egida Backup\build\EgidaBackup.exe"/>
+        <File Filename="D:\Projects\Egida Backup\build\history.rtf"/>
+        <File Filename="D:\Projects\Egida Backup\build\ICSharpCode.SharpZipLib.dll"/>
+        <File Filename="D:\Projects\Egida Backup\build\interop.v8.dll"/>
+        <File Filename="D:\Projects\Egida Backup\build\interop.v81.dll"/>
+        <File Filename="D:\Projects\Egida Backup\build\start.xml"/>
+        <File Filename="D:\Projects\Egida Backup\build\update.xml"/>
+        <File Filename="D:\Projects\Egida Backup\build\UpdateProgram.exe"/>
+        <Dir Filename="Logs">
+            <File Filename="D:\Projects\Egida Backup\build\Logs\Не удалять.txt"/>
+        </Dir>
+        <File Filename="D:\Projects\Egida Backup\build\Disconnect1C.exe"/>
+        <File Filename="D:\Projects\Egida Backup\build\interop.v82.dll"/>
+        <Dir Filename="help">
+            <File Filename="D:\Projects\Egida Backup\build\help\About.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\baza1c.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\baza1c1.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\box_preferences.png"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\catalog.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\catalog1.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\catalog2.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\content.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\functions.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\index.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\mail_notice.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\MainWindow.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\mainwindow.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\queve.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\queve_html_m597ab2a8.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\Raspisanie.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\raspisanie.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\raspisanie1.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\raspisanie2.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\raspisanie3.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\scrpit.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\scrpit_html_14b1f73b.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\test1c.html"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\test1c_html_1cbd4d81.jpg"/>
+            <File Filename="D:\Projects\Egida Backup\build\help\test1c_html_6f66062f.jpg"/>
+        </Dir>
+    </Files>
+    <ProgramLinks>
+        <Link Name="Egida Backup" Filename="\EgidaBackup.exe"/>
+    </ProgramLinks>
+    <DesktopLinks>
+        <Link Name="Egida Backup" Filename="\EgidaBackup.exe"/>
+    </DesktopLinks>
+    <QuickLinks/>
+</IceProject>

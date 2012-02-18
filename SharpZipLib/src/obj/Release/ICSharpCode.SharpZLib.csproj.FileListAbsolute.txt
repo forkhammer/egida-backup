@@ -1,0 +1,6 @@
+D:\Projects\Egida Backup\SharpZipLib\bin\ICSharpCode.SharpZipLib.dll
+D:\Projects\Egida Backup\SharpZipLib\src\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Egida Backup\SharpZipLib\src\obj\Release\ICSharpCode.SharpZipLib.dll
+Z:\Документы\Egida Backup\SharpZipLib\bin\ICSharpCode.SharpZipLib.dll
+Z:\Документы\Egida Backup\SharpZipLib\src\obj\Release\ResolveAssemblyReference.cache
+Z:\Документы\Egida Backup\SharpZipLib\src\obj\Release\ICSharpCode.SharpZipLib.dll
